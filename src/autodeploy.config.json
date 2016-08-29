@@ -1,0 +1,7 @@
+{
+    "project-name": "Auto Puller",
+    "host": "example.com",
+    "pull-branch": "refs/heads/master",
+    "log-file": "autodeploy.log",
+    "log-access": true
+}
