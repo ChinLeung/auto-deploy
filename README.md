@@ -25,7 +25,7 @@ Once you've moved the files, you need to add a Webhook in your Git Project:
 ### Gitlab
 1. Go to your project
 2. Click on Project Settings
-3. Click on *Webhooks*
+3. Click on **Webhooks**
 4. In the URL, put the location of your deploy.php
 5. In the trigger option, tick **Push events**
 6. Click on **Add Webhook**
